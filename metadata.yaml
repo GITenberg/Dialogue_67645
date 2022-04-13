@@ -1,0 +1,34 @@
+_repo: Dialogue_67645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_issued: '2022-03-17'
+identifiers:
+  gutenberg: '67645'
+language: en
+pgterms:marc904: https://archive.org/details/dialogue00hope
+pgterms:marc905: 20220306154232hawkinsma
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :The English Association,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Dialogue'
+- !lcc 'PR'
+- GITenberg
+title: Dialogue
+url: http://www.gutenberg.org/ebooks/67645
